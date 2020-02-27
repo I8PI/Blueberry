@@ -1,6 +1,3 @@
-#=========================================
-#more programs at usingpython.com/programs
-#=========================================
 
 import time
 
